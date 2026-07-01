@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "MCPBrowser": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "mcpbrowser@latest"]
+    }
+  }
+}
